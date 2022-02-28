@@ -22,9 +22,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-<a href="https://github.com/MASKADEV" style ="display : flex; justify-content-center; align-items:center">
+<div  style ="display : flex; justify-content-center; align-items:center">
+<a href="https://github.com/MASKADEV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASKADEV&theme=light&hide_langs_below=1" />
 </a>
+</div>
 
 <div align="center">
 
