@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with GraphQl documentation.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: [Instagram - @maska.dev](https://www.instagram.com/maska.dev/)
-- ⚡ Fun fact: I spend almost 5 hours listening to Podcast every day.
+- ⚡ Fun fact: I spend almost 2 hours listening to Podcast every day.
 
 
 [![GitHub MASKADEV](https://img.shields.io/github/followers/MASKADEV?label=follow&style=social)](https://github.com/MASKADEV)
