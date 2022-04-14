@@ -1,6 +1,6 @@
 ## Salam, I'm [Youness Sidki!]() 👋
 
-- 🔭 I’m currently im Available as Freelancer.
+- 🔭 I’m currently Available as Freelancer.
 - 🌱 I’m currently learning more about WebFramework.
 - 🤔 I’m looking for help with GraphQl documentation.
 - 💬 Ask me about Flutter or any tech-related stuff.
