@@ -24,7 +24,7 @@
 }
 ```
 
-<h1>Samples from my OpenSource Projects</h1>
+<h1>Samples from my Projects</h1>
 
 ## Automation App
 Open Source already has more than 15+ pages for automation apps niches<br />
