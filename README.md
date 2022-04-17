@@ -24,6 +24,15 @@
 }
 ```
 
+<h2>Samples from my OpenSource Projects</h2>
+
+### Automation App
+Open Source already has more than 15+ pages for automation apps niches<br />
+<p><a href="https://github.com/MASKADEV/fitness-todo" target="_blank"><img alt="Github Repo"
+src="https://icons-for-free.com/download-icon-github+icon-1320168274457504277_512.png" /></a>
+
+<hr>
+
 <div align="center">
 ### Show some ❤️ by starring some of the repositories!
 </div>
