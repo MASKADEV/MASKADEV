@@ -28,8 +28,8 @@
 
 ### Automation App
 Open Source already has more than 15+ pages for automation apps niches<br />
-<p><a href="https://github.com/MASKADEV/fitness-todo" target="_blank"><img alt="Github Repo"
-src="https://icons-for-free.com/download-icon-github+icon-1320168274457504277_512.png" /></a>
+<p><a href="https://github.com/MASKADEV/fitness-todo" target="_blank"><img alt="Github Repo" style="height:100px"
+src="https://www.kindpng.com/picc/m/128-1280187_github-logo-png-github-transparent-png.pngv" /></a>
 
 <hr>
 
