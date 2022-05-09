@@ -13,7 +13,7 @@
 {
    "languages" : ["C", "Dart", "TypeScript", "PHP", "JavaScript"],
    "web_backend" : ["Laravel"],
-   "web_frontend" : ["React"],
+   "web_frontend" : ["React", "Vue"],
    "mobile_app" : {
      "os" : ["Android", "iOS"],
      "tools" : ["Android Studio", "Flutter"]
