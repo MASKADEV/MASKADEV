@@ -19,7 +19,7 @@
      "tools" : ["Android Studio", "Flutter"]
    },
    "server" : {
-     "providers" : ["Amplify", "Firebase", "App Write"]
+     "providers" : ["AWS Amplify", "Firebase", "App Write"]
    }
 }
 ```
