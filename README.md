@@ -1,4 +1,4 @@
-## Salam, I'm [Youness Sidki!]() 👋
+## Salam, I'm [Youness Sidki!]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <!-- 
 - 🔭 I’m currently Available as Freelancer.
 - 🌱 I’m currently learning more about WebFramework.
