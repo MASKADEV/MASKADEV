@@ -12,7 +12,7 @@
 
 {
    "languages" : ["C", "Dart", "TypeScript", "PHP", "JavaScript"],
-   "web_backend" : ["Laravel"],
+   "web_backend" : ["Laravel, NodeJs"],
    "web_frontend" : ["React"],
    "mobile_app" : {
      "os" : ["Android", "iOS"],
