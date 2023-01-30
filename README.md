@@ -11,7 +11,7 @@
 ```json
 
 {
-   "languages" : ["C", "Dart", "TypeScript", "JavaScript", "Java"],
+   "languages" : ["C", "Dart", "TypeScript", "JavaScript", "Java", "PHP"],
    "web_backend" : ["Spring Boot"],
    "web_frontend" : ["React", "Angular", "Vuejs"],
    "mobile_app" : {
