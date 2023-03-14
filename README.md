@@ -15,8 +15,9 @@
    "web_backend" : ["Spring Boot"],
    "web_frontend" : ["React", "Angular", "Vuejs"],
    "mobile_app" : {
+     "Frameworks" : "Flutter"
      "os" : ["Android", "iOS"],
-     "tools" : ["Android Studio", "Flutter"]
+     "tools" : ["Android Studio"]
    },
    "server" : {
      "providers" : ["AWS Amplify", "Firebase", "App Write"]
