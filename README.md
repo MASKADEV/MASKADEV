@@ -15,7 +15,7 @@
    "web_backend" : ["Spring Boot"],
    "web_frontend" : ["React", "Angular", "Vuejs"],
    "mobile_app" : {
-     "Frameworks" : "Flutter"
+     "frameworks" : "Flutter"
      "os" : ["Android", "iOS"],
      "tools" : ["Android Studio"]
    },
