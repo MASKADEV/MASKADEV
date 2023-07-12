@@ -11,16 +11,15 @@
 ```json
 
 {
-   "languages" : ["C", "Dart", "TypeScript", "JavaScript", "Java", "PHP"],
+   "languages" : ["Dart", "TypeScript", "JavaScript", "Java"],
    "web_backend" : ["Spring Boot"],
    "web_frontend" : ["React", "Angular", "Vuejs"],
    "mobile_app" : {
      "frameworks" : "Flutter"
      "os" : ["Android", "iOS"],
-     "tools" : ["Android Studio"]
    },
    "server" : {
-     "providers" : ["AWS Amplify", "Firebase", "App Write"]
+     "providers" : ["AWS", "GCP", "App Write"]
    }
 }
 ```
