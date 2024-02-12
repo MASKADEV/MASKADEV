@@ -11,8 +11,8 @@
 ```json
 
 {
-   "languages" : ["Dart", "TypeScript", "JavaScript", "Java", "PHP"],
-   "web_backend" : ["Spring Boot", "Laravel"],
+   "languages" : ["Dart", "TypeScript", "JavaScript", "Java"],
+   "web_backend" : ["Spring Boot", "FireBase", "AWS Amplify"],
    "web_frontend" : ["React", "Next.js", "Vue.js"],
    "mobile_app" : {
      "frameworks" : "Flutter"
