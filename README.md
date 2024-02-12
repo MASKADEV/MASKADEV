@@ -13,7 +13,7 @@
 {
    "languages" : ["Dart", "TypeScript", "JavaScript", "Java", "PHP"],
    "web_backend" : ["Spring Boot", "Laravel"],
-   "web_frontend" : ["React", "Angular", "Vuejs"],
+   "web_frontend" : ["React", "Next.js", "Vue.js"],
    "mobile_app" : {
      "frameworks" : "Flutter"
      "os" : ["Android", "iOS"],
