@@ -12,7 +12,7 @@
 
 {
    "languages" : ["Dart", "TypeScript", "JavaScript", "Java"],
-   "web_backend" : ["Spring Boot", "FireBase", "AWS Amplify"],
+   "web_backend" : ["Spring Boot", "Node.js",],
    "web_frontend" : ["React", "Next.js", "Vue.js"],
    "mobile_app" : {
      "frameworks" : "Flutter"
