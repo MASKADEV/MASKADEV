@@ -12,8 +12,8 @@
 
 {
    "languages" : ["Dart", "TypeScript", "JavaScript", "Java"],
-   "web_backend" : ["Spring Boot", "Node.js"],
-   "web_frontend" : ["React", "Next.js", "Vue.js"],
+   "web_backend" : ["Spring Boot"],
+   "web_frontend" : ["React", "Vue.js", "Angular"],
    "mobile_app" : {
      "frameworks" : "Flutter"
      "os" : ["Android", "iOS"],
